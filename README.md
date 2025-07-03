@@ -1,6 +1,6 @@
 - 👋 Hi, I’m SonaliMoni!
   🎓 *CSE Student*|📚 *Learning to Code*|💻 *Aspiring Developer*
-- 🌱 Learning: C,Python,Java,Git.
+- 🌱 Learning: HTML,CSS,JAVASCRIPT,PHP,SQL,C,Python,Java,Git.
 - 🔭 I’m currently exploring the world of *Computer Science* and *software Development*
 - 🚀I'm looking to collaborate on beginner-friendly  open-source projects.
 - 💡I love solving problems and building simple projects to enhance my skills.
